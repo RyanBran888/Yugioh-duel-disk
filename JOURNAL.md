@@ -4,7 +4,7 @@ author: "Ryan brandt"
 description: "its a yugioh multi tool for stuff!"
 created_at: "2025-05-29"
 ---
-
+# total time spent? like 4-5 hours
 # today on the same day i created it i spent all day creating it :aga:
  here is what i did i designed the pcb and the schematic!
 
