@@ -16,4 +16,5 @@ i code the stuff that i put on the pcb
 16 diodes, $0.17 each, https://juriedengineering.com/products/1n4148-do-35-switching-signal-diode-new?utm_source=chatgpt.com
 pico, $5, https://www.amazon.com/Raspberry-Pi-Pico/dp/B09KVB8LVR/ref=asc_df_B09KVB8LVR?mcid=b3d7090e0aaf3fac91ccf1579d413aef&hvocijid=11375418671374882239-B09KVB8LVR-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=11375418671374882239&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9012421&hvtargid=pla-2281435177858&psc=1 
 MCP23017_SO i/o expander, $1.70, https://www.digikey.com/en/products/detail/microchip-technology/MCP23017-E-SS/894273?utm_source=chatgpt.com
+pcb, $32.15, jlcpcb
 ---
